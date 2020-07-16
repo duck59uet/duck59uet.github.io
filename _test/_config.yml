@@ -1,13 +1,13 @@
 # Site
-repository: sproogen/modern-resume-theme
+repository: Đơn ứng cử làm THE ONE
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
+name: Đức Bệu
 title: Your job title
 email: test@email.com
-phone: 07845248563
-website: sproogen.github.io/modern-resume-theme
+phone: 0913458796
+website: https://duck59uet.github.io/
 
 # Social links
 twitter_username: jekyllrb
@@ -28,7 +28,7 @@ orcid_username: 0000-0000-0000-0000
 additional_links:
 - title: Test link
   icon: fa-ello
-  url: sproogen.github.io/modern-resume-theme
+  url: https://duck59uet.github.io/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)

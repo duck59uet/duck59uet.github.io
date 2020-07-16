@@ -3,28 +3,18 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
+name: Đức Bệu
+title: Người yêu cô nàng má bánh bao
+email: ducnv1911@gmail.com
+phone: 0913458796
 website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+facebook_username: ThacSyAoE
+instagram_username: potassium_duc
 orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -43,19 +33,34 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_title: 10 sự thật kinh hoàng về bản thân
+about_profile_image: images/IMG_0106.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Dưới đây là 10 sự thật kinh hoàng về bản thân anh
+    - Điều thứ nhất: Tên khai sinh đầy đủ chính xác là: Nguyễn Khương Long. Ban đầu anh không có tên là Đức như hiện tại. Do sinh ra người anh hay ốm nên bố mẹ đổi tên lại thành Đức 
+    như hiện tại để mong mọi điều tốt đẹp sẽ tới với bản thân anh.
+    - Xuống với điều thứ 2: Anh sinh chính xác vào lúc 6h ngày 19 tháng 11 năm 1996. Hơn em tròn đúng 4 năm(hờ hờ tính cả năm nhuận nhé). Hồi bé anh không thích ngày này lắm đâu. Vì đơn giản 
+    mọi người thường nhớ về ngày 20/11 hơn. Nhưng sau càng ngày lớn hơn anh lại càng thấy thích ngày sinh của mình. Đơn giản vì ngày 19/11 được chọn làm ngày Quốc tế Đàn ông(Úi dùi ui tuyệt vời).
+    À quên ngày này thuộc cung Bọ Cạp. 
+    <img src="images/hehe.jpg" alt="alternatetext">
+    - Trôi theo điều thứ 3: Có một lần em hỏi anh về bố mẹ anh. Lần đấy anh lo lắng thật sự, lần đấy anh vòng vo không trả lời em hẳn. Đơn giản không phải anh sợ người khác biết hay như nào đâu. Mà anh ghét phải nhớ lại khoảng thời gian đấy.
+    Bố mẹ anh chia tay khá sớm. Trong khoảng thời gian đấy anh hay được hỏi câu hỏi nhất là: Cháu yêu ai hơn? Hoặc đơn giản hơn là: Bố mẹ mày chia tay rồi à? Khoảng thời gian đấy anh còn nhỏ nên hồn nhiên lắm.
+    Không hay nghĩ như bây giờ nên ai hỏi cũng cười cợt như thể chẳng có chuyện gì xảy ra cả. Giờ lớn hơn một chút, ít nói hơn nhưng lại cảm nhận nhiều hơn. 
+    - Điều thú nhận thứ 4: Mọi người hay bảo là anh người thích ru rú ở nhà nhưng trên thực tế là không phải. Anh thích đi đây đi đó, gặp người này người kia, sống cuộc sống của họ trong khoảng thời gian ngắn.
+    Lúc stressed, anh thường sẽ nghỉ vài ngày đến vùng đất lạ, không chăm chăm vào màn hình điện thoại, máy tính nữa mà sẽ lang thang đi khắm nơi. Đơn cử như năm 4 đại học, anh bị stressed nặng khi làm đồ án tốt nghiệp.
+    Lần đấy anh sợ rằng làm đồ án fail sẽ làm mất mặt thầy nên đã trốn vào Sài Gòn một tuần để lấy lại mục tiêu của bản thân mình, tại sao bắt đầu, tiếp diễn ra sao.. Sau mỗi lần như thế con người ta lại làm mới lại bản thân 
+    để băng qua phía trước.
+    <iframe width="580" height="350" src="https://www.youtube.com/embed/5i8bezxh-eQ" frameborder="0" allowfullscreen></iframe>
+    - Fact 5: Anh luôn ước mình sẽ có một tiệm sách cũ. Ước mơ này có từ nhỏ luôn. Hồi xưa ông bà anh có một tiệm sách nhỏ hay bán lại sách cũ cho trẻ em ở trên khu anh ở. Chắc từ đây anh có sở thích ước mơ này. Mùi sách cũ có
+    một cái gì đấy khó diễn tả cực. Đến thời nay, chắc ít có người nào mua sách cũ nữa. Giờ chỉ cần ngồi nhà lướt điện thoại trên Tiki rồi đặt mua là đã có ngay bao nhiêu là sách rồi. Chẳng còn ai lê la tiệm sách cũ để tìm mua như 
+    trước nữa. 
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+    Trên là 5 điều anh ghi trên web trước, còn 5 điều còn lại nếu em muốn nghe anh sẽ viết tiếp. =)).
+
+
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Anh thích em!
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
