@@ -10,11 +10,11 @@
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
 
-      {%- if site.data.celebrate.size > 0 -%}
-        {%- include celebrate.html -%}
+      {%- if jekyll.environment == 'production' and site.gtm -%}
+        {%- include gtm_body.html -%}
       {%- endif -%}
 
-      {%- include about2.html -%}
+      {%- include about.html -%}
 
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}

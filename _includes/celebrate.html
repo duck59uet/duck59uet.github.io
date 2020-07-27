@@ -1,0 +1,7 @@
+<div class="container celebrate-container">
+    <h3>{{ site.education_title | default: "Tung hoa tung hoa" }}</h3>
+    {% for celebrate in site.data.celebrate %}
+      {% include {{ celebrate.layout | default: 'left' | append: ".html" }} item=celebrate %}
+    {% endfor %}
+  </div>
+  
