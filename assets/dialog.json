@@ -1,0 +1,23 @@
+{
+    "fromMe": [{
+        "id": "0000",
+        "details": [
+            [
+                "💐💐💐Xin chào Vân Anh💐💐💐",
+                "Có một món quà nhỏ cho em bé ngày 01-06-2023 😁",
+                "<img src='img/anhxinh.jpg'>"
+            ]
+        ],
+        "responses": [{
+            "content": "Messenger",
+            "nextAuthor": ["0001"]
+        }]
+    }, {
+        "id": "0001",
+        "details": [
+            [
+            ]
+        ]
+    }],
+    "fromUser": []
+}
